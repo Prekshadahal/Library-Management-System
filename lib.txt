@@ -1,0 +1,5 @@
+A and D,             L. Carreon ,         1,                  $5   
+Great Gastby,        F.Scott,             11,                 $3  
+Invisible man,        R.Ellison,5,                  $4 
+Don Quixote ,        M.Cervantes,         8,                  $6  
+Beloved,        Tori Morrison,            3,                  $3
